@@ -5,7 +5,7 @@
     "injDep": "https://github.com/WeAreDevs-Official/WeAreDevs-Official.github.io/raw/master/versions/6-8/Fluxteam_net_API.dll",
     "exploit-module": {
         "version": 2984,
-        "patched": true,
+        "patched": false,
         "download": "https://github.com/WeAreDevs-Official/WeAreDevs-Official.github.io/raw/master/versions/6-8/Module.dll"
     },
     "csapi": {
